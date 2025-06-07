@@ -24,7 +24,6 @@
 
 const myMap = new Map();
 myMap.set("1", "A");
-
 myMap.set("2", "B");
 myMap.set("3", "C");
 
