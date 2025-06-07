@@ -22,3 +22,11 @@
 // var ekp_02 = ekp_01.substring(firstIndexOfSearchTerm,firstIndexOfSearchTerm + 1);
 // console.log("substring result is: " + ekp_02);
 
+const myMap = new Map();
+myMap.set("1", "A");
+
+myMap.set("2", "B");
+myMap.set("3", "C");
+
+console.log("map: ", myMap.get("2"));
+
